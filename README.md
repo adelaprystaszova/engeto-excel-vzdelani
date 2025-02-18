@@ -1,4 +1,4 @@
-# Excel úkol: Regionální diferenciace vzdělanosti v Česku   
+# Excel úkol: Regionální diferenciace vzdělanostní struktury v Česku   
 Výstup bonusového úkolu v Excelu z kurzu Datová akademie od Engeta.   
 _Results of a bonus assignment in Excel from the Data Academy course by Engeto._   
 Dokončeno: xxx
