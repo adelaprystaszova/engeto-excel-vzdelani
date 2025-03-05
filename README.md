@@ -1,5 +1,5 @@
 # Excel úkol: Regionální diferenciace vzdělanostní struktury v Česku, 2021   
-Výstup (upraveného) bonusového úkolu v Excelu z kurzu Datová akademie od Engeta.   
+Výstup (upraveného) dobrovolného úkolu v Excelu z kurzu Datová akademie od Engeta.   
 _Results of a (modified) bonus assignment in Excel from the Data Academy course by Engeto._   
 Dokončeno: 18. 2. 2025
 ## Zadání úkolu   
